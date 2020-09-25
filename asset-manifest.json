@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LoL-Projekat/static/css/main.49b48f58.chunk.css",
+    "main.js": "/LoL-Projekat/static/js/main.c993c4da.chunk.js",
+    "main.js.map": "/LoL-Projekat/static/js/main.c993c4da.chunk.js.map",
+    "runtime-main.js": "/LoL-Projekat/static/js/runtime-main.0aea37e6.js",
+    "runtime-main.js.map": "/LoL-Projekat/static/js/runtime-main.0aea37e6.js.map",
+    "static/js/2.f334a2ad.chunk.js": "/LoL-Projekat/static/js/2.f334a2ad.chunk.js",
+    "static/js/2.f334a2ad.chunk.js.map": "/LoL-Projekat/static/js/2.f334a2ad.chunk.js.map",
+    "index.html": "/LoL-Projekat/index.html",
+    "precache-manifest.cce5a5632d41f07c2a9bd131c4ed07d1.js": "/LoL-Projekat/precache-manifest.cce5a5632d41f07c2a9bd131c4ed07d1.js",
+    "service-worker.js": "/LoL-Projekat/service-worker.js",
+    "static/css/main.49b48f58.chunk.css.map": "/LoL-Projekat/static/css/main.49b48f58.chunk.css.map",
+    "static/js/2.f334a2ad.chunk.js.LICENSE.txt": "/LoL-Projekat/static/js/2.f334a2ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aea37e6.js",
+    "static/js/2.f334a2ad.chunk.js",
+    "static/css/main.49b48f58.chunk.css",
+    "static/js/main.c993c4da.chunk.js"
+  ]
+}
